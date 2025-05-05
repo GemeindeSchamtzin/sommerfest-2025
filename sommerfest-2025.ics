@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gemeinde Schmatzin//Sommerfest 2025//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Sommerfest der Gemeinde Schmatzin
+DTSTART;TZID=Europe/Berlin:20250620T170000
+DTEND;TZID=Europe/Berlin:20250622T130000
+DTSTAMP:20250505T000000Z
+UID:jan-henrik.hempel@gemeinde-schmatzin.de
+LOCATION:Schlatkow, 17390 Schmatzin
+DESCRIPTION:Sommerfest 2025 - das XXL Jubiläums-Wochenende\n\n70 Jahre Feuerwehr\n850 Jahre Schlatkow\n10 Jahre Kulturverein\n\nWebsite: https://www.gemeinde-schmatzin.de/
+URL:https://www.gemeinde-schmatzin.de/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Sommerfest der Gemeinde Schmatzin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
